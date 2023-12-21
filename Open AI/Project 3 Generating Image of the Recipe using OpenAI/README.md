@@ -10,6 +10,11 @@ Recipe Generation: Users provide ingredients, and the program generates a recipe
 The program generates a catchy and relevant recipe title based on the provided ingredients.
 Image Prediction: Utilizes DALL·E 3 to predict an image corresponding to the generated recipe title.
 
+### Description
+Welcome to Recipe Generator, an innovative exploration into the world of culinary artistry powered by AI. This application combines the prowess of OpenAI's GPT-3 and DALL·E to craft distinctive recipes, offer cooking guidance, propose catchy titles, and visualize the final dish. With Recipe Generator, simply input your desired ingredients, and watch as the system constructs detailed recipes, provides engaging titles to elevate your creation, and generates vibrant, AI-generated images that bring your culinary vision to life. Whether you're craving a classic dish or seeking to explore the boundaries of experimental cuisine, RecipeGen invites you on an imaginative and thrilling cooking journey, opening doors to a realm of endless culinary possibilities.
+
+
+
 ### Requirements
 * Python 3.x
 * OpenAI Python library
